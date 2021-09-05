@@ -1,4 +1,4 @@
-# Computer_vision_projects
+# Computer_vision_project
 This project is a combination of 3 things,
 1. Object detection.
 2. Object Tracking.
