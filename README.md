@@ -13,4 +13,4 @@ This project is a combination of 3 things,
 
 The model which we use here is YOLO  which can detect over 9000 classes, but here i'am using the coco dataset.
 
-Here we take only the Human class for object detection transfer learning process to detect person class from the video and measure the distance between them to check whether they are practicing Social-Distancing or not and when the distance is less between the subjects we can see the no. of violations happening in the video stream.
+Here we take only the Human class for object detection transfer learning process to detect person class from the video and measure the distance between them to check whether they are practicing Social-Distancing or not and when the distance is less between the subjects we can see the number of violations happening in the video stream.
